@@ -1,10 +1,25 @@
+ 
 .contenedor{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+     
 }
 .contenedor img{
-    
     object-fit: cover;
+}
+.about{
+    color: black;
+}
+.caja1{
+    color:black;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+     
+
+}
+ 
+.caja2{
+    color: black;
 }
