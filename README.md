@@ -16,7 +16,7 @@
 Estás postulando para un puesto de desarrollador **Front-end** en una empresa que trabaja con clientes internacionales. Para poner a prueba tus habilidades te han pedido construir una aplicación web en **Next.js** que permita visualizar los datos de un **Pokemon**. Para esto te han asignado un Pokemon, te han proporcionado la documentación de la API de Pokemon para obtener los datos que debe consumir tu aplicación y te han proporcionado el **diseño de UI/UX mínimo** [Figma](https://cutt.ly/YwL1XB9s) que debe cumplir tu aplicación.
 | id del Pokemon |
 |----------------|
-|  `<id de pokemon asignado> `|
+|  `<115> `|
 
 #### Documentación de la API de Pokemon:
 `GET https://pokeapi.co/api/v2/pokemon/{id o nombre de pokemon}`
@@ -81,3 +81,4 @@ Estás postulando para un puesto de desarrollador **Front-end** en una empresa q
 ### Entrega:
 Una vez tengas la app en **Next.js** debes realizar un commit con todos tus cambios a **tu repositorio de GitHub** del examen y adjuntar el enlace del mismo en la tarea asignada en **ClassRoom**.
 
+ 
