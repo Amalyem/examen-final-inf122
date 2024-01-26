@@ -1,0 +1,10 @@
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor img{
+    
+    object-fit: cover;
+}
